@@ -1,0 +1,1 @@
+<p><?php printf( esc_html__( '%s', 'amphtml' ), $this->options->get( 'content_404' ) ); ?></p>

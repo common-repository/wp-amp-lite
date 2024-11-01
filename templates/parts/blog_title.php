@@ -1,0 +1,1 @@
+<h1 class="amphtml-title"><?php echo esc_html( $this->options->get( 'blog_title' ) ) ?></h1>
